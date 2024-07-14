@@ -1,6 +1,5 @@
 package com.kirana.auth.config;
 
-import com.kirana.auth.entity.UserData;
 import com.kirana.auth.service.CustomUserDetailsService;
 import org.springframework.aot.generate.ValueCodeGenerator;
 import org.springframework.context.annotation.Bean;
